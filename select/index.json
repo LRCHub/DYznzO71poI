@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "犬と月",
+  "base_artist": "BONNIE PINK",
+  "createdAt": "2026-03-20T12:05:20.022886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "犬と月 (full length version)",
+      "artist": "BONNIE PINK",
+      "has_synced": true,
+      "path": "select/01_犬と月_(full_length_version)_BONNIE_PINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "犬と月 (full length version)",
+      "artist": "Pink, Bonnie",
+      "has_synced": true,
+      "path": "select/02_犬と月_(full_length_version)_Pink,_Bonnie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "犬と月",
+      "artist": "BONNIE PINK",
+      "has_synced": true,
+      "path": "select/03_犬と月_BONNIE_PINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "犬と月",
+      "artist": "Pink, Bonnie",
+      "has_synced": true,
+      "path": "select/04_犬と月_Pink,_Bonnie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "犬と月 -Full Length Version-\u001f「www.jpopsingles.eu」",
+      "artist": "Bonnie Pink",
+      "has_synced": true,
+      "path": "select/05_犬と月_-Full_Length_Version-_「www.jpopsingles.eu」_Bonnie_Pink.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "犬と月",
+      "artist": "BONNIE PINK",
+      "has_synced": false,
+      "path": "select/pl_01_犬と月_BONNIE_PINK.txt"
+    }
+  ]
+}
